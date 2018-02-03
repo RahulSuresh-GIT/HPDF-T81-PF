@@ -16,8 +16,9 @@ You will also see any lint errors in the console.
 
 ### Screenshots 
 
-<img src="first.png" width="250">
-<img src="second.png" width="250">
+<img src="first.png" width="350">
+<img src="second.png" width="350"> <img src="third.png" width="350">
+
 
 ### Python Flask :
 
