@@ -16,9 +16,8 @@ You will also see any lint errors in the console.
 
 ### Screenshots 
 
-Form Page - ![Form Page](/Image_1.png "Image_1")
- ![Form Page](/Image_2.png "Image_2")
-
+<img src="first.png" width="250">
+<img src="second.png" width="250">
 
 ### Python Flask :
 
