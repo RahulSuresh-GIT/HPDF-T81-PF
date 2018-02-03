@@ -16,9 +16,8 @@ You will also see any lint errors in the console.
 
 ### Screenshots 
 
-Home Page - ![Home Page](/home_page.png "Home Page")
-
-Search Page - ![Search Page](/search_page.png "Search Page")
+Form Page - ![Form Page](/Image_1.png "Image_1")
+ ![Form Page](/Image_2.png "Image_2")
 
 
 ### Python Flask :
